@@ -1,0 +1,18 @@
+{
+  "name": "8-express",
+  "version": "1.0.0",
+  "description": "1. What is Express.JS?\r Ans:- Express.js is a free and open-source web application framework for Node.js. It is used for designing and building web applications quickly and easily.",
+  "main": "express2.js",
+  "scripts": {
+    "start": "nodemon express2",
+    "dev": "node express2",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
